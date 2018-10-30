@@ -1,0 +1,3 @@
+C:/Users/Allien/Desktop/STUDIA/Programowanie/Zadania/1.3/cmake-build-debug/CMakeFiles/1_2.dir
+C:/Users/Allien/Desktop/STUDIA/Programowanie/Zadania/1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Allien/Desktop/STUDIA/Programowanie/Zadania/1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
