@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="2_4" targetName="2_4" />
+      <config projectName="2_6" targetName="2_6" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba15bb6a-cd19-4409-807a-a47e394e397a" name="Default Changelist" comment="" />
+    <list default="true" id="e33ac4c6-1c05-4bd1-86ad-4cbdf4707591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2.5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +24,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
-    <session id="-1343722997">
+    <session id="-1736750005">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
@@ -32,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="184" />
+          <entry key="c" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="184" />
+          <entry key="ObjectiveC" value="125" />
         </counts>
       </usages-collector>
     </session>
@@ -52,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+            <state relative-caret-position="340">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -91,8 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,8 +115,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.2_4">
-    <configuration name="2_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_4" TARGET_NAME="2_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_4" RUN_TARGET_NAME="2_4">
+  <component name="RunManager" selected="Application.2_6">
+    <configuration name="2_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_6" TARGET_NAME="2_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_6" RUN_TARGET_NAME="2_6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -125,7 +128,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.2_4" />
+      <item itemvalue="Application.2_6" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -133,18 +136,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba15bb6a-cd19-4409-807a-a47e394e397a" name="Default Changelist" comment="" />
-      <created>1540941788349</created>
+      <changelist id="e33ac4c6-1c05-4bd1-86ad-4cbdf4707591" name="Default Changelist" comment="" />
+      <created>1540993605173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540941788349</updated>
-      <workItem from="1540941790074" duration="765000" />
-      <workItem from="1540942989923" duration="18000" />
+      <updated>1540993605173</updated>
+      <workItem from="1540993606926" duration="592000" />
+      <workItem from="1540994226271" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="783000" />
+    <option name="totallyTimeSpent" value="609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -156,7 +159,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -184,8 +187,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
