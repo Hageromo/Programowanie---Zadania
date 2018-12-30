@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Allien/Desktop/STUDIA/Programowanie/Zadania/1.1/main.c
+D:/C ++/Zadania z C/1.1/main.c
 stdio.h
+-
+stdlib.h
+-
+limits.h
 -
 
